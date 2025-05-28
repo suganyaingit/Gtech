@@ -1,1 +1,1 @@
-this is related to Git
+this is all about devops class
