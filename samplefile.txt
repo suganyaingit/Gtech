@@ -1,1 +1,1 @@
-Hi !! Welcome to the Git Devops Session.
+Hi !! Welcome to the Git Session.
